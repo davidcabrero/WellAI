@@ -4,7 +4,7 @@ import MarkdownIt from 'markdown-it';
 import './style.css';
 
 
-let API_KEY = 'AIzaSyDdFJjfcanrCIfBcltNksz1CJXl8Z27US8';
+let API_KEY = 'APIKEY';
 
 let form = document.querySelector('form');
 let promptInput = document.querySelector('input[name="prompt"]');
